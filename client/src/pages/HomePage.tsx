@@ -36,7 +36,7 @@ const HomePage = () => {
         <div className="container relative z-10 mx-auto grid items-center gap-12 md:grid-cols-2">
           <div className="animate-fade-in-left">
             <span className="inline-block rounded-full bg-secondary/20 px-4 py-1.5 text-xs font-bold uppercase tracking-widest text-secondary">
-              New Season 2024
+              New Season 2026
             </span>
             <h1 className="mt-6 text-4xl font-bold leading-[1.1] text-primary-foreground md:text-6xl lg:text-7xl">
               Discover<br />
