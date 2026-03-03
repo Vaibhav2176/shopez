@@ -39,16 +39,16 @@ const Footer = () => (
               <Mail className="h-4 w-4 text-secondary" /> support@shopez.com
             </div>
             <div className="flex items-center gap-2.5 text-sm text-primary-foreground/60">
-              <Phone className="h-4 w-4 text-secondary" /> +1 (555) 123-4567
+              <Phone className="h-4 w-4 text-secondary" /> +91 7024057876
             </div>
             <div className="flex items-center gap-2.5 text-sm text-primary-foreground/60">
-              <MapPin className="h-4 w-4 text-secondary" /> New York, USA
+              <MapPin className="h-4 w-4 text-secondary" /> Bhopal, India
             </div>
           </div>
         </div>
       </div>
       <div className="mt-12 border-t border-primary-foreground/10 pt-8 text-center text-xs text-primary-foreground/40">
-        © {new Date().getFullYear()} ShopEZ. All rights reserved. Built with ❤️
+        © {new Date().getFullYear()} ShopEZ. All rights reserved.
       </div>
     </div>
   </footer>
